@@ -10,9 +10,9 @@ Oyunun çok basit bir amacı vardır:
 
 ### Karakterler
 **Uzaylı**
-https://raw.githubusercontent.com/dogukanyildiz99/space_invaders_2d_game/main/alien.png
+![alt text](https://raw.githubusercontent.com/dogukanyildiz99/space_invaders_2d_game/main/alien.png)
 </br>
 **Dünyayı Kurtaran Kişi**
-https://raw.githubusercontent.com/dogukanyildiz99/space_invaders_2d_game/main/player.png
+![alt text](https://raw.githubusercontent.com/dogukanyildiz99/space_invaders_2d_game/main/player.png)
 </br>
 http://web-projesi.eu5.org/ Şimdi oyun zamanı
