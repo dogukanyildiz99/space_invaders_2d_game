@@ -9,10 +9,12 @@ Oyunun çok basit bir amacı vardır:
 - Klavyedeki boşluk tuşu ile de ateş edebilirsiniz.
 
 ### Karakterler
+<br>
 **Uzaylı**
 ![alt text](https://raw.githubusercontent.com/dogukanyildiz99/space_invaders_2d_game/main/alien.png)
-</br>
+<br>
 **Dünyayı Kurtaran Kişi**
+<br>
 ![alt text](https://raw.githubusercontent.com/dogukanyildiz99/space_invaders_2d_game/main/player.png)
-</br>
+<br>
 http://web-projesi.eu5.org/ Şimdi oyun zamanı
