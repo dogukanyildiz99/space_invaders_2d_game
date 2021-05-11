@@ -13,7 +13,7 @@ Oyunun çok basit bir amacı vardır:
 </br>
 ![alt text](https://raw.githubusercontent.com/dogukanyildiz99/space_invaders_2d_game/main/alien.png)
 </br>
-**Dünyayı Kurtaran Kişi**
+**Dünyayı Kurtaracak Kişi**
 </br>
 ![alt text](https://raw.githubusercontent.com/dogukanyildiz99/space_invaders_2d_game/main/player.png)
 </br>
