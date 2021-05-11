@@ -1,0 +1,33 @@
+/*Arkaplan rengi*/
+body {
+	background-color: rgb(236, 231, 224);
+}
+/*Oyun alanının yerleşmesi*/
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	width: 600px;
+	height: 600px;
+	border: solid rgb(0, 255, 34) 1px;
+	background-image: url("background.png");
+}
+/*Oyun alanının bölünmesi*/
+.grid div {
+	width: 40px;
+	height: 40px;
+}
+/*Oyuncu*/
+.player {
+	background-image: url("player.png");
+}
+.istilaci {
+	background-image: url("alien.png");
+}
+/*Lazer*/
+.laser {
+	background-image: url("laser.png");
+}
+/*Patlama efekti*/
+.boom {
+	background-image: url("boom.png");
+}
