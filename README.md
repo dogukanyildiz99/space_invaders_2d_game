@@ -13,3 +13,4 @@ Oyunun çok basit bir amacı vardır:
 </br>
 **Dünyayı Kurtaran Kişi**
 </br>
+http://web-projesi.eu5.org/ Şimdi oyun zamanı
