@@ -17,4 +17,4 @@ Oyunun çok basit bir amacı vardır:
 </br>
 ![alt text](https://raw.githubusercontent.com/dogukanyildiz99/space_invaders_2d_game/main/player.png)
 </br>
-http://web-projesi.eu5.org/ Şimdi oyun zamanı
+Şimdi oyun zamanı http://web-projesi.eu5.org/
